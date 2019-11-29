@@ -1,4 +1,4 @@
-# Steps to auto analysis
+# Auto Pattern Finder
 
 ## Introduction
 
@@ -11,7 +11,6 @@ This dataset is a dataset that has articles classified based on gender.
 Using this, we attempt to find if the system can start predicting the article's nature, before reading the next record.
 This is a classical attempt at reinforcement based learning.
 
-Advanced Pattern Finder automates the process that we keep on iterating our thoughts on.
+Auto Pattern Finder automates the process that we keep on iterating our thoughts on.
 Using a multitude of algorithms that we make use, for evaluating objects, we can make the computer do the thinking for us.
 This is the basis for making this program.
-
